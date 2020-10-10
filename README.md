@@ -1,12 +1,63 @@
-## 欢迎来到Women in Academia女性在学术界Wiki。
-我们的社区是[豆瓣小组]（https://www.douban.com/group/705363/）
-欢迎您加入我们。
-### 主要分类
-1. 按照学科分类
-2. 按照地区分类
-3. 按照求学阶段分类（本科，硕士，博士，博后，教职）
+# 欢迎来到Women in Academia女性在学术界中文wiki
+我们的社区是豆瓣小组：[Women in Academia女性在学术界](https://www.douban.com/group/705363/)
 
-To Do:
-- 建立一些模板
-- 把组里的精华信息搬运过来一些
-- 可以需要为不太了解github和markdown的姐妹写一个简要的使用说明
+入组前必读：[豆瓣小组组规](https://github.com/WomenInAcademia/Wiki/blob/master/豆瓣小组组规.md)
+
+我们还有一个[slack交流群](https://www.douban.com/group/topic/196580000/)～
+
+欢迎学术姐妹们加入我们！
+
+## 目录
+
+- 入门指南
+  - [学术词典](https://github.com/WomenInAcademia/Wiki/blob/master/学术词典.md)
+- 按照学科分类(参考维基百科[学术领域](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)分类)
+  - 人文学科 Humanities
+    - 艺术 Arts
+    - 历史 History
+    - 语言与文学 Languages and literature
+    - 法律 Law
+    - 哲学 Philosophy
+    - 神学 Theology
+  - 社会科学 Social Sciences
+    - 人类学 Anthropology
+    - 考古学 Archaeology
+    - 经济学 Economics
+    - 地理学 Geography
+    - 政治学 Political science
+    - 心理学 Psychology
+    - 社会学 Sociology
+    - 社会福利工作 Social Work
+  - 自然科学 Natural Sciences
+    - 生物学 Biology
+    - 化学 Chemistry
+    - 地球科学 Earth science
+    - 太空科学 Space sciences
+    - 物理学 Physics
+  - 形式科学 Formal Sciences
+    - 计算机科学 Computer Science
+    - 数学 Mathematics
+    - 统计学 Statistics
+  - 应用科学 Applied Sciences
+    - 商科 Business
+    - 工程学 Engineering and technology
+    - 医学药学 Medicine and health
+    - 建筑学 Architecture
+
+- 按照地区分类
+  - 中国
+  - 亚洲其他地区
+    - 新加波
+    - 日本
+  - 北美
+    - 美国
+    - 加拿大
+  - 澳洲
+  - 英国
+  - 欧洲
+- 按照求学阶段分类
+  - 本科
+  - 硕士
+  - 博士
+  - 博士后
+  - 教职
