@@ -11,6 +11,18 @@
 
 - 入门指南
   - [学术词典](https://github.com/WomenInAcademia/Wiki/blob/master/学术词典.md)
+  - 如何有效进行信息检索 How to search on Google effectively?
+  - 如何找到研究课题 How to find a research project?
+  - 如何发现个人学术兴趣点 How to find my research interests?
+  - 如何读文献 How to read a paper？
+  - 如何写论文 How to write a paper？
+- 按照求学阶段分类
+  - 本科
+  - 硕士
+  - 博士
+    - 博士申请指南
+  - 博士后
+  - 教职
 - 按照学科分类(参考维基百科[学术领域](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)分类)
   - 人文学科 Humanities
     - 艺术 Arts
@@ -55,9 +67,3 @@
   - 澳洲
   - 英国
   - 欧洲
-- 按照求学阶段分类
-  - 本科
-  - 硕士
-  - 博士
-  - 博士后
-  - 教职
