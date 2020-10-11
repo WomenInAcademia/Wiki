@@ -15,7 +15,7 @@
   - 如何找到研究课题 How to find a research project?
   - 如何发现个人学术兴趣点 How to find my research interests?
   - 如何读文献 How to read a paper？
-  - [如何写论文 How to write a paper？](https://github.com/WomenInAcademia/Wiki/blob/master/如何写论文 How to write a paper.md)
+  - [如何写论文 How to write a paper？](https://github.com/WomenInAcademia/Wiki/blob/master/如何写论文.md)
 - 按照求学阶段分类 (您可在此分享各个阶段的申请经验，学习/工作经验等。目前特别需要编写研究生/博士申请指南。)
   - 本科
   - 硕士
