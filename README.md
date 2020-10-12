@@ -67,3 +67,18 @@
   - 澳洲
   - 英国
   - 欧洲
+## 如何参与以及编写这个wiki
+- 您可以直接使用issues来投稿。
+- 您可以在wiki对应的腾讯文档中投稿。目前已建立的文档有：
+  - 入门指南
+    - [如何读文献](https://docs.qq.com/doc/DYmJiR2NCQndTSHly)
+    - [如何找到研究课题](https://docs.qq.com/doc/DYkRFVFlJZXRjWEZC)
+    - [学术词典](https://docs.qq.com/doc/DYlZ0UU5wYktjVnpo)
+    - [如何写论文](https://docs.qq.com/doc/DYmlsT3ZUVkZ5ZEhm)
+  - 求学阶段分类
+    - 博士
+      -[博士申请指南](https://docs.qq.com/doc/DYkR3cUNydExDcGJX)
+- 欢迎大家来申请成为这个wiki的维护人员。您可以通过以下方式来申请：
+  - 在小组slack的wiki channel中联系我们。
+  - 在小组[Welcome to Academia中文百科登陆Github啦!](https://www.douban.com/group/topic/196808485/)贴中联系我们。
+  
